@@ -1,0 +1,19 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background: #fff;  
+}
+h1
+{
+   position: absolute;
+   top: 15%;
+   transform:translateY(-50%);
+   width: 100%;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+   color:black;
+   font-size: 40px;
+}
